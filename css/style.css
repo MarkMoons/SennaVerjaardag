@@ -59,6 +59,68 @@
     font-family: "Burbank Big Condensed";
 }
 
+.vraagTitle{
+    font-size: 200px;
+}
+
+.vraag1Body{
+    text-align: center;
+    background-image: url("../img/map.jpg");
+    background-position: center;
+    background-size: 300% 300%;
+    color: white;
+    text-shadow: 15px 0 black, 0 15px black, 15px 0 black, 0 15px black;
+}
+
+.vraag2Body{
+    text-align: center;
+    background-image: url("../img/dance.gif");
+    background-size: 1000px 2150px;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: 15px 0 black, 0 15px black, 15px 0 black, 0 15px black;
+}
+
+.vraag3Body{
+    text-align: center;
+    background-color: lightskyblue;
+    color: white;
+    text-shadow: 15px 0 black, 0 15px black, 15px 0 black, 0 15px black;
+}
+
+.finalBody{
+    text-align: center;
+    background-color: white;
+}
+
+#textFinal{
+    color: blue;
+}
+
+.vraagText{
+    font-size: 80px;
+}
+
+.vraagText2{
+    font-size: 80px;
+    margin-top: -110px;
+}
+
+.vragen{
+    margin-top: 250px;
+    font-size: 40px !important;
+}
+
+.foto{
+    max-width: 500px;
+    max-height: 500px;
+    margin: 20px;
+}
+
+.fotos{
+    display: inline-block;
+}
+
 /*--- fout.html ---*/
 .foutBody{
     background-color: red;
